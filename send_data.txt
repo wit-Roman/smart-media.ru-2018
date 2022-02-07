@@ -1,0 +1,14 @@
+{ name: 'Yonex Carbon',
+4|smart    |   email: '2witov@gmail.com',
+4|smart    |   phone: '89621707336',
+4|smart    |   text: 'создать метку',
+4|smart    |   download: {} }
+4|smart    | file
+4|smart    | { fieldname: 'download',
+4|smart    |   originalname: 'ach-fone.png',
+4|smart    |   encoding: '7bit',
+4|smart    |   mimetype: 'image/png',
+4|smart    |   destination: 'uploads/',
+4|smart    |   filename: 'ach-fone.png',
+4|smart    |   path: 'uploads/ach-fone.png',
+4|smart    |   size: 65045 }
